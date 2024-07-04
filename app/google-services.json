@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341120359546",
+    "project_id": "footballreservation-7555c",
+    "storage_bucket": "footballreservation-7555c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341120359546:android:9f4d593055d1e038386fc3",
+        "android_client_info": {
+          "package_name": "com.example.footballreservationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK81jcvJ41izfBajfYwgJoztmBKmjc0IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

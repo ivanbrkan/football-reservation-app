@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="emailEditText" type="id" />
+    <item name="passwordEditText" type="id" />
+    <item name="registerButton" type="id" />
+    <item name="loginButton" type="id" />
+    <item name="helloTextView" type="id" />
+    <item name="addReservationButton" type="id" />
+    <item name="reservationsRecyclerView" type="id" />
+    <item name="usernameEditText" type="id" />
+    <item name="registrationStatusTextView" type="id" />
+    <item name="loginUsernameEditText" type="id" />
+    <item name="loginPasswordEditText" type="id" />
+    <item name="usernameTextView" type="id" />
+    <item name="dateTextView" type="id" />
+    <item name="statusTextView" type="id" />
+    <item name="reserveButton" type="id" />
+    <item name="dateEditText" type="id" />
+    <item name="timeEditText" type="id" />
+    <item name="timeTextView" type="id" />
+    <item name="acceptButton" type="id" />
+    <item name="rejectButton" type="id" />
+    <item name="etName" type="id" />
+    <item name="etSurname" type="id" />
+    <item name="btnRegister" type="id" />
+    <item name="btnGoToLogin" type="id" />
+    <item name="etDate" type="id" />
+    <item name="etTime" type="id" />
+    <item name="btnReserve" type="id" />
+    <item name="tvDate" type="id" />
+    <item name="tvTime" type="id" />
+    <item name="btnAccept" type="id" />
+    <item name="btnReject" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="btnLogin" type="id" />
+</resources>
